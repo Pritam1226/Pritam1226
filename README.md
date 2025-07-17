@@ -2,6 +2,10 @@
 <h3 align="center">Android App Developer</h3>
 
 <p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" width="250"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/Pritam1226">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Pritam1226&theme=dark" alt="GitHub Streak"/>
   </a>
@@ -19,6 +23,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Check out all my projects here:
+
+<p>
+  🔗 [Visit My GitHub Profile](https://github.com/Pritam1226)
+</p>
+
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36b42d0-72c7-4e74-8673-7c5e8e7f9f3f" alt="Project Showcase" width="600"/>
 </p>
 
 ---
